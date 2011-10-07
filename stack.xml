@@ -1,0 +1,10 @@
+<stack>
+  <description brief="generalized_inversed_kinematics">generalized_inversed_kinematics</description>
+  <author>Maintained by Thomas Moulard</author>
+  <license></license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/generalized_inversed_kinematics</url>
+  <depend stack="ros" />
+  <depend stack="jrl_maths" />
+  <depend stack="robot_dynamics" />
+</stack>

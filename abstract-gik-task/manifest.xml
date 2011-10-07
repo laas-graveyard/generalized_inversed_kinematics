@@ -1,0 +1,22 @@
+<package>
+  <description brief="abstract-gik-task">
+
+    FIXME
+
+  </description>
+  <author>See package AUTHORS file.</author>
+  <license>LGPL</license>
+  <review status="experimental" notes=""/>
+  <url>http://ros.org/wiki/abstract-gik-task</url>
+
+  <export>
+    <rosdoc
+       external=
+       "http://laas.github.com/abstract-gik-task/doxygen/HEAD/index.html" />
+  </export>
+  <rosdep name="git"/>
+  <rosdep name="boost"/>
+
+  <versioncontrol type="git"
+		  url="git://github.com/laas/abstract-gik-task.git"/>
+</package>

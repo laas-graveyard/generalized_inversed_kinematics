@@ -1,0 +1,25 @@
+<package>
+  <description brief="hpp-gik">
+
+    FIXME
+
+  </description>
+  <author>See package AUTHORS file.</author>
+  <license>LGPL</license>
+  <review status="experimental" notes=""/>
+  <url>http://ros.org/wiki/hpp-gik</url>
+
+  <export>
+    <rosdoc
+       external=
+       "http://laas.github.com/hpp-gik/doxygen/HEAD/index.html" />
+  </export>
+  <rosdep name="git"/>
+  <rosdep name="boost"/>
+
+  <depend package="abstract-gik-task"/>
+  <depend package="abstract-robot-dynamics"/>
+
+  <versioncontrol type="git"
+		  url="git://github.com/laas/hpp-gik.git"/>
+</package>

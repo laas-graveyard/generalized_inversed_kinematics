@@ -17,6 +17,7 @@
   <rosdep name="git"/>
   <rosdep name="boost"/>
 
+  <depend package="jrl-mal"/>
   <depend package="abstract-gik-task"/>
   <depend package="abstract-robot-dynamics"/>
 
